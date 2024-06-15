@@ -10,6 +10,7 @@ cells = soup.find_all('div', class_='andes-card ui-search-result ui-search-resul
 
 products = []
 avaliations = []
+descriptions = []
 
 for i in range(len(cells)):
     product = cells[i].find('a').text.strip()
