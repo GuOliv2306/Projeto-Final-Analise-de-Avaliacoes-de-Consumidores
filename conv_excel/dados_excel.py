@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+from tabela import gerar_tabela
 
 #ler o .json dos produtos
 with open('../dados_produtos.json', 'r', encoding='utf-8') as file:
@@ -18,7 +19,7 @@ df=pd.DataFrame(produtos)
 
 #data frame para excel
 df.to_excel('dados_produtos.xlsx', index=False)
-print('conversão para excel concluída')
+gerar_tabela('dados_produtos.xlsx')
 
 
 
