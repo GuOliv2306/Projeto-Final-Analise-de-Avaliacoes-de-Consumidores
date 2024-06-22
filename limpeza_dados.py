@@ -30,5 +30,24 @@ contador = Counter(todas_palavras)
 mais_comuns = contador.most_common(20)
 
 # Exibir os resultados
+lista_recorrentes=[]
 for palavra, frequencia in mais_comuns:
-    print(f'Palavra: {palavra}, Frequência: {frequencia}')
+    lista_recorrentes.append([palavra, frequencia])
+
+categorias_para_adicionar=["suporte", "cadeira", "mesa", "escrivaninha"]
+
+# Função para determinar a categoria com base no preço
+def determinar_categoria(nome):
+    for each_categotias in categorias_para_adicionar:
+        if each_categotias in nome:
+            return each_categotias
+    return "outros"
+
+# Adicionar o item "categoria" a cada produto
+for produto in dados:
+    nome_produto=produto["nome"].lower()
+    produto['categoria'] = determinar_categoria(nome_produto)
+
+# Salvar os dados atualizados de volta no arquivo JSON
+with open('produtos_atualizados.json', 'w', encoding='utf-8') as file:
+    json.dump(dados, file, ensure_ascii=False, indent=4)
