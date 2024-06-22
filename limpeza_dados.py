@@ -48,6 +48,13 @@ for produto in dados:
     nome_produto=produto["nome"].lower()
     produto['categoria'] = determinar_categoria(nome_produto)
 
+def condicao_remover(produto):
+    # Exemplo: remover produtos cujo nome contém "palavra_especifica" ou cujo preço é inferior a 100
+    return 'N/A' == produto['avaliacao'] or produto["depoimentos"] == []
+
+# Remover produtos que atendem à condição
+dados = [produto for produto in dados if not condicao_remover(produto)]
+
 # Salvar os dados atualizados de volta no arquivo JSON
 with open('produtos_atualizados.json', 'w', encoding='utf-8') as file:
     json.dump(dados, file, ensure_ascii=False, indent=4)
