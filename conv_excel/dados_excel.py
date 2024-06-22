@@ -15,7 +15,7 @@ else:
     print("Estrutura do JSON não é uma lista de dicionários.")
 
 #conversão para data frame pandas
-df=pd.DataFrame(produtos)
+df=pd.DataFrame(produtos).
 
 #data frame para excel
 df.to_excel('dados_produtos.xlsx', index=False)
