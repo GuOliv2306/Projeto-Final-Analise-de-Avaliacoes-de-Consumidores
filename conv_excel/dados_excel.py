@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 #ler o .json dos produtos
-with open('dados_produtos.json', 'r', encoding='utf-8') as file:
+with open('../dados_produtos.json', 'r', encoding='utf-8') as file:
     produtos = json.load(file)
 
 #retirando as descrições do excel
