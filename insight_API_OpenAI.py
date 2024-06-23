@@ -3,7 +3,7 @@ import openai
 import os
 
 # Configuração da API diretamente no código
-openai.api_key = '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'
+openai.api_key = ''
 
 # Função para gerar resumo usando a nova interface ChatCompletion
 def gerar_resumo(texto):
