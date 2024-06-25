@@ -12,14 +12,14 @@ def main():
     # São ao todo 3 páginas de sapatênis, vamos raspar todas
     num_paginas = 3
 
-    # Essa lista conterá dicionários como elementos, e cada dicionário contém informações de um produto.
+    # Essa lista conterá dicionários como elementos, e cada dicionário conterá informações de um produto.
     dados = []
 
     # Variável auxiliar para garantir que não estaremos pegando URLs de produtos repetidas
     # Não há certeza se os produtos podem aparecer duplicados numa mesma página ou entre as páginas.
     urls_unicas = set()
 
-    # Iterando sobre as páginas.
+    # Completando as URLs e iterando sobre as páginas.
     for i in range(1, num_paginas + 1):
         url = f"{url_base}?page={i}"
     
@@ -28,8 +28,8 @@ def main():
         if page_content is None:
             continue
 
-        # Recebendo o conteúdo da página e retornando uma lista de dicionários, nos quais cada dicionário armazena o nome de um produto e o link para ele. 
-        # Depois iteramos sobre os dicionários da lista e, se o valor da chave url (o link do produto) não estiver no conjunto auxiliar que criamos lá no início, então ele é adicionado a esse conjunto.
+       # Esse bloco é responsável por acessar os links dos produtos, pegar o código das páginas (de cada produto) e extrair as informações que queremos com a função get_produtc_data
+       # Armazena os dicionários retornados por get_product_data em uma lista
         product_links = get_product_links(page_content)
         for product in product_links:
             if product['url'] not in urls_unicas:
@@ -41,9 +41,12 @@ def main():
         print(f"Dados coletados da página {i}")
         time.sleep(1)  # Pausa para não sobrecarregar o servidor
 
-    # Armazenar os dados em um arquivo JSON
+    # Armazena os dados da lista retornada pelo bloco anterior em um arquivo JSON
     with open('dados_produtos.json', 'w', encoding='utf-8') as f:
         json.dump(dados, f, ensure_ascii=False, indent=4)
+
+if __name__ == "__main__":
+    main()
 
 if __name__ == "__main__":
     main()
