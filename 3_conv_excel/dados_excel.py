@@ -3,7 +3,7 @@ import pandas as pd
 from tabela import gerar_tabela
 
 #ler o .json dos produtos
-with open('C:/Users/guguo/PycharmProjects/Projeto-Final-Analise-de-Avaliacoes-de-Consumidores/limp_dados/produtos_atualizados_2.json', 'r', encoding='utf-8') as file:
+with open('C:/Users/guguo/PycharmProjects/Projeto-Final-Analise-de-Avaliacoes-de-Consumidores/2_limp_dados/dados_produtos_2.json', 'r', encoding='utf-8') as file:
     produtos = json.load(file)
 
 #retirando as descrições do excel
