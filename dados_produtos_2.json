@@ -1,0 +1,791 @@
+[
+    {
+        "nome": "Sapatênis Casual Masculino em Material Nobre - Preto",
+        "preco": "88,78",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "9 ",
+        "depoimentos": [
+            "Excelente produto26 Abril 2024 - Robson P. - Surpreendeu a qualidade.",
+            "Lindo!29 Março 2024 - Maiko - Além do kit de 3 sapatênis com zíper, variei de modelo adquirindo este modelo. Sensacional! Muito bonito e confortável.",
+            "Gostei mt bom27 Março 2024 - Jeferson - Comprei amei e compraria novamente",
+            "Ótimo26 Março 2024 - Cléo correa - Não esperava que o produto fosse ser tão bom parabéns.",
+            "Excelente produto29 Janeiro 2024 - Carlos Henrique rocha do Nascimento - Bom acabamento, sem falhas. O mesmo sapato que foi anunciado. Recomendo.",
+            "19 Novembro 2023 -  - ",
+            "Satisfeita02 Novembro 2023 - Eliana - Boa qualidade",
+            "Amei ❤️ o produto ,27 Outubro 2023 - Liana vercoza jardim - Muito bom mesmo os calçados,eu recomendo,na verdade demorou um pouco mas valeu a pena",
+            "Produto VS entrega23 Maio 2024 - Gedielson de Almeida Sales - Produto, pelo preço excelente, entrega péssima, inventam que o endereço está errado, e por aí vai, se for comprar para um evento com data próxima, não vai chegar."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Masculino em Material Nobre - Café",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "4 ",
+        "depoimentos": [
+            "Feliz demais com produto01 Abril 2024 - Weverson de Paula Sabino - Muito satisfeito com produto, fiquei muito feliz com produto",
+            "19 Fevereiro 2024 - RAPHAEL LEITÃO SIQUEIRA PARAVIDINI - ",
+            "09 Fevereiro 2024 - Marcos - Chegou rapidamente e são lindos.",
+            "Gostei muito top o produto28 Outubro 2023 - Wilton da Silva Alves - Muito bom chegou antes do prazo parabéns"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Masculino - Preto",
+        "preco": "88,78",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "22",
+        "depoimentos": [
+            "Eu gostei muito do produto09 Junho 2024 - Tiago Luís da Silva - Muito bonito e confortável",
+            "06 Junho 2024 -  - ",
+            "otimo23 Maio 2024 - carlos - otimo sapato e nao sapatenis. vou comprar outro. muito confortavel e bonito.",
+            "11 Maio 2024 -  - ",
+            "04 Maio 2024 - Marangon - ",
+            "Ótimo produto26 Abril 2024 - Elton - Produto macio, leve e confortável, indico sem medo, ótimo custo benefício",
+            "08 Abril 2024 - Caique Pereira de Freitas - ",
+            "Sincera14 Março 2024 - Paulo Pedro Rosa - Mto bom e também mto confortável, custo benefício mto bom",
+            "Ótimo25 Fevereiro 2024 - Luciano Barbosa - Produto execelente!!\nPorém não veio a cor solicitada!!!!",
+            "Ótimo produto22 Janeiro 2024 - João Victor de oliveira lima - É um sapatênis bem casual, combina com tudo e ótimo material, bem leve e confortável com detalhes bem acabados e atendeu minhas expectativas, muito recomendo.",
+            "Gostei muito dele pessoalmente16 Janeiro 2024 - A14Ademir - Muito bonito, bem confortável, bom acabamento e espero que boa durabilidade. Gostei muito da minha aquisição.",
+            "Produto maravilhoso28 Dezembro 2023 - Darlison da Silva - Amei o sapato, muito lindo e confortável, parabéns.",
+            "Sapato TOP26 Dezembro 2023 - Welinton Azevedo - Sapato de qualidade e chegou dentro do esperado",
+            "PRODUTO DE LINDO E DE EXCELENTE QUALIDADE.15 Dezembro 2023 - MAURICIO INACIO FELLIPE NETO - O produto é belíssimo, com um fino acabamento e muitíssimo confortável. Valeu demais a compra.",
+            "07 Dezembro 2023 -  - "
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Masculino - Capuccino",
+        "preco": "88,78",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "21",
+        "depoimentos": [
+            "20 Junho 2024 - Ana Assis - Produto igual a imagem...muito bonito! Confortável!",
+            "Lindo amei07 Junho 2024 - Carliene Aparecida Ponciano - Muito bom, gostei muito",
+            "Adorei30 Maio 2024 - Alessandro Pens - Loja excelente gostei muito",
+            "Perfeito26 Abril 2024 - Ellenn Cristina dos Santos Rodrigues - O tênis é lindo, confortável, o tamanho é real, é perfeito. O maridão amou!",
+            "Gostei, muito bonito.24 Abril 2024 - Mathews - Tive que comprar um numero menor do que geralmente uso, a forma é grande.",
+            "18 Abril 2024 - JOSE ANTONIO VIEIRA FERREIRA - ",
+            "18 Abril 2024 - JOSE ANTONIO VIEIRA FERREIRA - ",
+            "Meu esposo amou30 Março 2024 - Adri - É elegante, leve e confortável",
+            "Produto muito bom29 Março 2024 - WOKIMAR - Conforme propaganda, bom acabamento, design e atualizado com o momento.",
+            "Gostei mt bom27 Março 2024 - Jeferson Breno - Comprei e compraria de novo top",
+            "Macio e confortável recomendo14 Março 2024 - Michael - ",
+            "Produto excelente19 Fevereiro 2024 - Rafael Dias Magalhães - Sapato perfeito é muito aconchegante e lindo.",
+            "Gostei muito dele pessoalmente16 Janeiro 2024 - A14Ademir - Um ótimo acabamento, bonito, bem confortável e agora é ver a durabilidade. Mas gostei muito da aquisição que fiz.",
+            "14 Janeiro 2024 -  - ",
+            "Lindo13 Janeiro 2024 - JOSELITO FERREIRA DOS SANTOS - Os sapatos mais confortáveis que já usei"
+        ]
+    },
+    {
+        "nome": "Sapato Derby Tobin Camurça em Atacador - Camel",
+        "preco": "88,78",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "9 ",
+        "depoimentos": [
+            "muito bom22 Maio 2024 - Gledson de Lima Freitas - bom",
+            "O calçado é confortável29 Março 2024 - José Carlos - Sapato de boa qualidade",
+            "Gostei18 Março 2024 - Alex - Bonito e confortavel",
+            "24 Fevereiro 2024 - SERGIO AUGUSTO VELOSO DE ALMEIDA - Gostei do produto.",
+            "Gostei muito22 Janeiro 2024 - Vitor Dogoli - Confortável e bonito",
+            "24 Dezembro 2023 -  - ",
+            "29 Outubro 2023 -  - ",
+            "Excelente22 Outubro 2023 - Rafael - Produto muito bem acabado e com uma ótima relação custo benefício. Nota 10!",
+            "Boa qualidade16 Fevereiro 2024 - Getúlio de Almeida - Produto bom, entrega rápida, estou satisfeito."
+        ]
+    },
+    {
+        "nome": "Sapato Derby Tobin Camurça em Atacador - Preto",
+        "preco": "88,78",
+        "avaliacao": "4,8",
+        "quantidade-de-avaliacoes": "9 ",
+        "depoimentos": [
+            "Muito bom16 Junho 2024 - José Aurélio da Rosa Felten - Produto muito bom",
+            "Ótimo05 Junho 2024 - Carlos Renan Antunes dos Santos - Gostei muito do sapato, venho como está na publicidade, não tive nenhum problema na compra e atendeu minhas expectativas",
+            "EXCELENTE22 Maio 2024 - WILSON MORINIGO - EXCELENTE PRODUTO",
+            "Excelente12 Fevereiro 2024 - Alexandre Sell - Recomendo",
+            "ótimo produto01 Fevereiro 2024 - Luís Carlos Medeiros Machado - ótimo produto",
+            "Eu fiz uma excelente compra e super indico30 Janeiro 2024 - Francisco de Assis da Silva Maciel - Parabéns pelo compromisso do bom relacionamento com os clientes.",
+            "ótimo produto21 Janeiro 2024 - Luís Carlos Machado - muito confortável",
+            "Excelente o produto , com qualidade29 Novembro 2023 - Eliton da Silva - 100 % satisfeito",
+            "Gostei do sapato apesar de ser um pouco apertado para entrar o pé.27 Maio 2024 - SILVIO DA SILVA LESSA - .poderia ser um pouco mais folgado para o pé entrar mais suave"
+        ]
+    },
+    {
+        "nome": "Sapato Derby Tobin Camurça em Atacador - Marinho",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "3 ",
+        "depoimentos": [
+            "Ótimo26 Maio 2024 - Marcel - Gostei do produto. Atendeu minhas necessidades",
+            "Achei bonito o produto13 Maio 2024 - WAXIY MALUA KARAJA - ",
+            "Gostei muito11 Fevereiro 2024 - Mauricio de Oliveira Léo - Já a segunda compra que fiz, gostei muito sapato, a cor e muito bonita."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil PTO/PTO 189",
+        "preco": "62,10",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Gostei muito produto16 Junho 2024 -  - Custo benefício. Não é de couro. Mais acabamento bom e bonito.",
+            "Ótimo produto08 Junho 2024 -  - Excelente sapato, confortável",
+            "Muito bom. Recomendo17 Maio 2024 - Jefferson Pereira da Silva - Comprei para o meu filho e ele adorou",
+            "Recomendo..16 Novembro 2023 - J.A.pedro - Ótimo produto, ótimo preço eu recomendo. Esse é o terceiro par que comprei.",
+            "525 Outubro 2023 - Pedro Flores - Preço e benefício, muito bom."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Bordo 189",
+        "preco": "62,10",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "23 Dezembro 2023 -  - ",
+            "03 Dezembro 2023 - Emerson Elias - "
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Verde - 189",
+        "preco": "89,91",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Azul - 189",
+        "preco": "89,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Excelente Reconendo muito24 Abril 2024 - Marco Antônio Pedro de Lima - Recomendo muito, produto de Qualidade"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Amarelo - 189",
+        "preco": "89,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Excelente produto16 Junho 2024 - Pasqual Satalino - Produto dentro das expectativas. Apenas Apenas a que para o calça fácil deve ser um número maior. Eu já havia adquirido anteriormente outra co com numeração exata e é muito difícil calca-lo. A entrega um pouco demorada."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Vermelho 189",
+        "preco": "62,10",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "7 ",
+        "depoimentos": [
+            "Parabens31 Janeiro 2024 - Antônio Muniz Andrade - Produto de alta qualidade , superou minha expectativa.",
+            "Excelente26 Janeiro 2024 - Fabiano Marques - Boa tarde\nOs produtos chegaram rápido e com excelente qualidade como eu já esperava, até porque não foi a primeira compra com vcs, mas a unidade vermelha veio com a numeração errada, mas vi que eu que fiz o pedido errado, veio 38 e o correto era 39. Como faço para trocar?",
+            "Sapatênis versales04 Janeiro 2024 - Alessandro Dias - Confortável, elegante, cores incríveis.",
+            "Sapatênis versales04 Janeiro 2024 - Alessandro Dias - Confortável, elegante, cores incríveis.",
+            "Gostei muito do produto10 Agosto 2022 - Henrique Pinto da Silva Júnior - Muito macio, prático para calçar, como eu queria",
+            "Gostei07 Fevereiro 2024 - Varella - As solas podem ser costuras em vez d coladas n mais recomendo",
+            "Gostei07 Fevereiro 2024 - Varella - As solas podem ser costuras em vez d coladas n mais recomendo"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Branco 189",
+        "preco": "69,91",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "19",
+        "depoimentos": [
+            "Nota 10 pode comprar31 Maio 2024 - Levy Chagas da Silva - Muito bom sapatênis já tem uma coleção dessa marca",
+            "Bom25 Maio 2024 - Alex - Muito bom",
+            "Com certeza adorei o produto!25 Abril 2024 - João Carlos - Produto de ótima qualidade, com excelente custo benefício e calça muito bem muito macio e aderente.",
+            "Sapatenis17 Março 2024 - Thiago Raimundo - Produto muito confortável. Fiquei muito satisfeito com a compra.",
+            "Sapatenis17 Março 2024 - Thiago Raimundo - Produto muito confortável. Fiquei muito satisfeito com a compra.",
+            "Gostei muito do sapatenis que comprei!20 Fevereiro 2024 - ANDRE MUNHOZ - Produto excelente, muito bem feito e bem acabado!",
+            "Gostei muito do sapatenis que comprei!20 Fevereiro 2024 - ANDRE MUNHOZ - Produto muito bem feito, bem acabado e muito bonito!",
+            "02 Fevereiro 2024 - FELIPE BRITO - Excelente produto.",
+            "Produto de primeira qualidade29 Janeiro 2024 - Tatiane - Ter mais opcoes de sapatenis das cores claras",
+            "Conforto28 Outubro 2023 - Marcelo Mendes dos Santos - Confesso que comprei com medo, mas quando chegou fiquei encantado com a beleza e conforto.",
+            "22 Outubro 2023 - Alvaro - Adorei o produto. Confortável, bonito e algo que considero muito importante: o solado de borracha.",
+            "Produto excelente05 Junho 2022 - Alfredo Amadeus Alves Rodrigues - Segundo produto que adquiro,uma qualidade acima do esperado além de beleza de fabricação,parabéns a todos da empresa e continuem nos surpreendendo com ótimos produtos e preço acessível!!!",
+            "Excelente custo benefício24 Maio 2022 - Flávia da Silva - Chegou certinho do jeito que pedi. Gostei muito e recomendo.",
+            "21 Fevereiro 2024 - Jonatas Farias Silva - Excelente custo beneficio",
+            "Gostei muito05 Fevereiro 2024 - Alexandre Rodrigues - Dentro do esperado esse já é o segundo tênis que compro com vcs , parabéns."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Café 189",
+        "preco": "69,91",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "28",
+        "depoimentos": [
+            "02 Junho 2024 -  - ",
+            "Sapatenis26 Fevereiro 2024 - Carlos Márcio - Produto de ótima qualidade, calça muito bem, combina com bermuda.",
+            "Ótimo custo benefício24 Agosto 2022 - Edson Petrini - Veste muito bem, é elegante e confortável. Fiquei feliz com a aquisição.",
+            "Gostei muito do do produto é confortável.31 Julho 2022 - Branco - Excelente produto é prático pra causar.",
+            "Sapatenis bonito. Gostei.06 Julho 2022 - Julio Cesar França - O sapatenis é exatamente como mostrado na propaganda. Leve e confortável. E fácil de calçar.",
+            "Gostei do produto05 Junho 2022 - Flavio - Ótimo custo benefício.",
+            "Sapato03 Junho 2022 - Tiago - Sapato top gostei muito recomendo atendeu as minhas necessidades a loja a fabrica tá de parabéns.",
+            "Sapato03 Junho 2022 - Tiago - Sapato top gostei muito recomendo atendeu as minhas necessidades a loja a fabrica tá de parabéns.",
+            "Produto de ótima qualidade20 Agosto 2021 - Teresa Siqueira - Produto de ótima qualidade. Lindo demais muito maravilhoso e super confortável. Indico sem medo e receio.",
+            "Excelente. Ótimo27 Junho 2021 - Antonio Gressoelho Teixeira - Produto muito bom. Recomendo a todos",
+            "Valeu a experiência01 Junho 2021 - Carlos hinderberg da Silva - Tudo muito bom , produto logística de entrega",
+            "Gostei muito21 Abril 2021 - Rafaela correa - Mais uma vez, obrigada Versales! Como sempre me entregaram um ótimo produto, meu marido ama o outro sapatenis que tem de vocês, ótima qualidade, lindo, confortável, até breve, pois vou continuar comprando.",
+            "Gostei muito21 Abril 2021 - Rafaela correa - Mais uma vez, obrigada Versales! Como sempre me entregaram um ótimo produto, meu marido ama o outro sapatenis que tem de vocês, ótima qualidade, lindo, confortável, até breve, pois vou continuar comprando.",
+            "gostei muito do produto05 Abril 2021 - Novaes - Recomendo, excelente, bonito, leve bem elegante.",
+            "Conforto11 Março 2021 - Carlos roberto Chimenes - Super confortável"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Azul 189",
+        "preco": "69,91",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "23",
+        "depoimentos": [
+            "20 Abril 2024 - Thaís - Lindo o sapato, mas comprei na numeração errada. Meu marido gostou muito e já até usou",
+            "Gostei muito do sapato, muito bem feito. Parabéns aos envolvidos!08 Abril 2024 - Marcos Lima - Gostei muito do sapato, muito bem feito. Parabéns aos envolvidos!",
+            "Ótima qualidade16 Março 2024 - Paulo - Produto chegou certinho!",
+            "Excelente produto15 Março 2024 - Junior Moreira - Super confortável e de ótima qualidade",
+            "Qualidade boa16 Dezembro 2023 - Adriano - Qualidade muito boa, preço excelente e entrega rápida",
+            "Sapato bonito e confortável.12 Novembro 2023 - Gislaine Bechi - ",
+            "Satisfeita02 Novembro 2023 - Jeová - Ótimo produto! Só apertar um pouco dos lados por ser mais estreito,como tenho o pé largo incomoda, mas nada que com o tempo não ceda.",
+            "Produto ótimo!25 Agosto 2022 - Arlete Bomfá Marques - Achei o produto excelente!!",
+            "Gastei do produto09 Julho 2022 - Georgia Cordeiro - O produto ficou perfeito! Todavia gostaria de ressaltar o atendimento excelente! Foi necessário trocar o tamanho e tudo correu perfeitamente a partir das orientações da atendente!",
+            "Gostei muito08 Julho 2022 - Angela Coelho - Gostei muito dos produtos. Foi presente para meus filhos e eles tambem gostaram. Chegou no prazo e isso foi importante.",
+            "Totalmente confortável e prático no calçar.20 Julho 2021 - Marco Amaral - Além do estilo super atual e Despojado.",
+            "A qualidade e muito boa.01 Abril 2021 - Marcos Antonio de Almeida - O produto e muito versatil, ainda nao usei, porque ainda estou com uma sequela no pe referente a uma cirurgia, com isso esta apertando um pouco. Mas achei muito diferenciado o desine e tbm o material que ele foi feito.",
+            "Muito bom07 Fevereiro 2021 - Kleber - O produto é bom, bonito e barato.",
+            "Super satisfeito !!24 Janeiro 2021 - Sérgio - Confortável e muito bonito, ótimo custo benefício.",
+            "Gostei muito do produto!22 Janeiro 2021 - Alexandre - Gostei muito de ter comprado o sapatenes,com a versales a loja cumpre com oque eles falam,e seguem tudo dentro do diâmetro de me avisaram,quando constou o pagamento no sistema me enviaram o rastreio daí em diante só fiz acompanhar,fiz o pedido no dia 14/01 e já recebi no dia 21/01 e se não fosse esse problema que nós vivemos que é a pandemia eu creio,que chegaria mais rápido eu alto recomendo a loja é boa e de confiança,parabéns e muito obrigado 👍👏👏"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Ziper Preto 189",
+        "preco": "69,91",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "19",
+        "depoimentos": [
+            "Excelente12 Fevereiro 2024 - Alexandre Sell - Recomendo",
+            "Lindo!02 Janeiro 2024 - PRISCILA LOPES FREITAS - Sapata confortável, bonito. Super recomendaria esse produto.",
+            "Gostei muito16 Novembro 2023 - Alexandre Rodrigues - Ótimo produto, só aperta um pouco na lateral,",
+            "Gostei muito do produto30 Agosto 2022 -  - Estou muito satisfeito foram rápidos na entrega ,comprei o número errado porém tive todo suporte pra fazer a troca e rapidamente me retornaram o número que eu queria estou mui6 satisfeito minha próxima compra sea de três pares com cores diferentes",
+            "Satisfação10 Agosto 2022 - Alderi pequeno da Silva - Estou muito satisfeito com o produto e indico com toda certeza",
+            "Gostei muito do produto19 Julho 2022 - carlos eduardo de carvalho melo - Ótimo produto",
+            "Era do jeito q eu queria, muito bom o produto01 Junho 2022 - José Olivar Pelisson Junior - Vou usar agora pra ver se e bom mesmo, bonito ele é",
+            "Meu esposo amou p produto27 Novembro 2021 - Cassia zulian - Produto de otima qualidade muito bom",
+            "Ótima Qualidade17 Outubro 2021 - Telmo Silva - Entrega no previsto, confortável, ótima qualidade. Recomendo.",
+            "Produto aprovado18 Junho 2021 - Miguel Custódio - Ótimo produto fiquei satisfeito em adquirir reomendo,entrega dentro do prazo.",
+            "Gostwi14 Março 2021 - Vadel gomes - Atendeu as expectativas",
+            "Sapatenis01 Março 2021 - Nelson Correia - Achei o preço bom, chegou em prazo proposto, e o principal e que gostei muito do produto. veste bem, confortável e bonito. Vou comprar outras vezes quando precisar",
+            "Bonito e confortável26 Fevereiro 2021 - EDUARDO NEY ROSSIN - Comprei 2 pares de tênis Puma Ferrari e aprovei sua qualidade, leveza e design. Já havia visto em loja física e experimentado. Sendo Marca Puma te deixa mais tranquilo porque é sinônimo de qualidade",
+            "Gostei muito 100%14 Dezembro 2020 - JULIO CICERO SAMPAIO - Gostei muito, produto de muito boa qualidade, preço bom e o melhor, atendimento muito rápido, chegou antes do programado...",
+            "Ótimo sapato30 Novembro 2020 - Ótimo sapato - Recebi muito rápido minha encomenda!\nA primeira impressão é de um sapato além de bonito, muito bem acabado e confortável"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil - Café",
+        "preco": "80,91",
+        "avaliacao": "4,8",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Ótimo produto09 Junho 2024 - Soane Novaes - O meu marido amou e atendeu a minha expectativa",
+            "Gostei!23 Abril 2024 - JOSE EDSON DE SOUZA - ",
+            "Ótimo produto21 Abril 2024 - Carlos Alexandre - Ótimo produto igual eu comprei na internet indico o produto parabéns",
+            "Compra de produto06 Março 2024 - VICTOR HUGO DIAS DOS SANTOS - Produto atendeu as expectativas, ótimo custo beneficio.",
+            "Produto muito bom25 Março 2024 - Fraga - Custo benefício excelente"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Chocolate/Marinho",
+        "preco": "72,82",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatenis Masculino Slip on Versales Calce Facil Preto/Preto",
+        "preco": "80,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Belíssimo e bem confortável01 Março 2024 - Jeff - Peça um número maior",
+            "03 Dezembro 2023 -  - "
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Slip on Versales Calce Facil Gelo",
+        "preco": "80,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "8 ",
+        "depoimentos": [
+            "Gostei08 Junho 2024 - Flavip - Me surpreendi com a beleza e conforto",
+            "Top23 Maio 2024 - Sávyo José de Souza Pereira - Produto muito bom!",
+            "Dou nota 1016 Maio 2024 - Ian Caique Justino - Galera! Chegou bem no prazo que eu queria! Comprei para o casamento da minha irmã. Experimentei o tamanho que eu pedir, e deu super certo! Parabéns Versales👏🏽👏🏽👏🏽 e foi a minha primeira compra. Já quero ver novos produtos e aceito patrocínio Versales rsrsrs",
+            "Muito bom13 Janeiro 2024 - JOSELITO SANTOS - Muito bom",
+            "incrivel20 Dezembro 2023 - alexandre alles bonatto - vale cada centavo compre logo e seja feliz o meu chegou hoje, a qualidade e o preço sao excelentes",
+            "Ótimo18 Julho 2022 - João - Calçado excelente, sou cliente de vocês ja tenho outros e são maravilhosos, mas esse superou as expectativas. PARABÉNS!!!",
+            "Calçado muito bom18 Julho 2022 - Jéssica - Gostei muito desse calçado ele é confortavel e muito estiloso, estão de parabéns!",
+            "POSITIVA15 Julho 2022 - Leandro - PRODUTO TOP E CONFORTAVEL!!!!!!!!!!!!!"
+        ]
+    },
+    {
+        "nome": "Kit 2 Sapatenis Masculino Slip on Versales Calce Facil - Gelo e Preto",
+        "preco": "134,9",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "6 ",
+        "depoimentos": [
+            "Foi uma ótima compra29 Março 2024 - VALDEIR - Fiquei impressionado com a qualidade dos produtos, realmente muito bonitos e confortáveis com ótimo acabamento. Além, disso a entrega foi rápida!",
+            "Sapatenis Slip27 Março 2024 - Manoel Geovani - Produto de Boa Qualidade, Confortável",
+            "25 Dezembro 2023 -  - ",
+            "Boa compra05 Maio 2024 - Dario - Bonito e de boa qualidade. Atentar para a numeração, sugiro comprar um número maior.",
+            "Produto confortável e de ótima qualidade 😄😄06 Abril 2024 - Cristian Lugli Gombrade - ",
+            "Produto muito ótimo acabamento.09 Fevereiro 2024 - Alex - Se entregasse um pouco mais de conforto seria excelente"
+        ]
+    },
+    {
+        "nome": "Sapato Social Derby Lightness em Atacador - Café",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "6 ",
+        "depoimentos": [
+            "Produto de excelente qualidade!26 Fevereiro 2024 - Edson - Sapato muito bem acabado, confortável, gostei muito da qualidade",
+            "Excelente12 Fevereiro 2024 - Alexandre Sell - Recomendo",
+            "Produto incrível24 Dezembro 2023 - Mateus Nunes - O sapato é excelente,tem um belo design,além de ser muito confortável.",
+            "Amei muito o produto22 Dezembro 2023 - Moisiel Nascimento - Produto esta em alta",
+            "22 Novembro 2023 - José Rogério dos Santos Peres filho - ",
+            "Olha não tenho muito que falar, a Versales tá sempre inovando seus produtos e para melhor.. Recomend20 Outubro 2023 - Wanderley fhernandes - Gostei muito e vou comprar mais modelos"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai de Amarrar Versales Masculino - Capuccino",
+        "preco": "88,78",
+        "avaliacao": "4,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "21 Janeiro 2024 -  - ",
+            "Sapatenis19 Fevereiro 2024 - Gilberto Ferreira - O preço é bom, mas não é confortável!"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai de Amarrar Versales Masculino - Preto",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Produto muito bom, confortável recomendo muito15 Junho 2024 - Guilherme Henrique de Souza - Produto muito bom, confortável recomendo muito"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai Versales Masculino - Capuccino",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "muito bom11 Junho 2024 -  - prestacão de serviço com ecxelência",
+            "Adorei17 Maio 2024 - Luiz Carlos de Oliveira - Muito lindo o calçado ainda não usei mais tenho certeza que vou gostar , obrigado.",
+            "Gostei muito do produto22 Abril 2024 - Sandra - Perfeito",
+            "Amei o produto10 Fevereiro 2024 - Elias - Muito confortável o sapato",
+            "Elogio24 Novembro 2023 - Renata Sales Quadros - Sapato maravilhoso!! As pessoas que ganharam gostaram muito. Vou voltar comprar mais outros modelos."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai Versales Masculino - Preto",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "19 Abril 2024 - Luiz Antônio dos Santos - gostei calça muito bem macio e chegou em prazo muito bom recomendo",
+            "Gostei bastante do produto15 Abril 2024 - Geomar Barbosa da Silva - Muito bom o material e a qualidade é boa",
+            "Excelente custo benefício.06 Abril 2024 - Edmar Geraldo dos Santos SANTOS - Muito bonito e confortável, recomendo.",
+            "Gostei do produto25 Março 2024 - Ana Elizabeth Correia de Carvalho - Produto conforme mostra na descrição. Gostei. Só gostaria que chegasse mais rápido.",
+            "Gostei do produto13 Fevereiro 2024 - Rogério Gama Peres - É bonito e extremamente confortável"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino de Elástico Taurus Versales Café",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Bom, bonito e Barato.´17 Junho 2024 - Luiz Fernando - Gostei bastante do sapatênis, bastante confortável e bonito.\nmaterial de qualidade.",
+            "Gostei do produto02 Novembro 2023 - Marcos Martins de souza - Super confortável, super Índico esse produto."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino de Elástico Taurus Versales Capuccino",
+        "preco": "99,90",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "08 Abril 2024 -  - ",
+            "muito bonito, bom acabamento, vale a pena. numeração correta.22 Fevereiro 2024 - DIEGO LUNARDO BENIZ - "
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino de Elástico Taurus Versales Preto",
+        "preco": "99,90",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales Café",
+        "preco": "99,90",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales Capuccino",
+        "preco": "99,90",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales de Elástico Café",
+        "preco": "99,90",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales de Elástico Capuccino",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Show de bola26 Outubro 2023 - André Gustavo - Espetacular, só poderia ser mais macio."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales de Elástico Preto",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Produto excelente09 Junho 2024 - Bruno Leandro pimenta - Ótima qualidade e conforto",
+            "Ótimo, muito confortável.22 Janeiro 2024 - Marco Viana Mendes - Ótimo sapato e confortável."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales Preto",
+        "preco": "99,90",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Faltou acustura pra dar mas seguranca no calcado27 Novembro 2023 - Marcos Silva - ",
+            "23 Outubro 2023 -  - "
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales de Elástico Taurus Café",
+        "preco": "99,90",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales de Elástico Taurus Capuccino",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Excelente produto.15 Janeiro 2024 - Luiz H. Nunes - Excelente acabamento, muito bom custo beneficio."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales de Elástico Taurus Preto",
+        "preco": "99,90",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales Platium Camurça Caramelo",
+        "preco": "88,78",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "25 Abril 2024 - Matheus Coelho - Sapato barato e cumpre um papel mas a durabilidade não é tão grande mas é um bom investimento",
+            "Bonito confortável e bom acabamento10 Março 2024 - Roque Correa do Amaral - Recomendo"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales Platium Camurça Rato",
+        "preco": "88,78",
+        "avaliacao": "4,4",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Gostei muito13 Junho 2024 - Wagner Santana Bianchi - Excelente produto , ótimo custo benefício!",
+            "Qualidade máxima28 Março 2024 -  - ",
+            "ELEGANTES 5 estrelas considerando a estética, material, custo e envio12 Fevereiro 2024 - Alexander Herold - Lindos. material de qualidade, mas um pouco duro o solado interno. não tem almofada ou espuma. Boa abertura interna na parte frontal que não aperta os pés. Tamanho encomendado n. 38 e veio corretamente. super rápido. calçado leve. solado externo resistente e lindo acabamento. sem rebarbas. custo/benefício.",
+            "Gostei do produto30 Janeiro 2024 - Abrão Areal - Gostei da qualidade",
+            "Forma grande❗️21 Abril 2024 - Kayqc Pablo - Sapatênis muito bonito, mais a forma é grande!!!"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Taurus Versales Masculino - Café",
+        "preco": "99,90",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Taurus Versales Masculino - Capuccino",
+        "preco": "99,90",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Taurus Versales Masculino - Preto",
+        "preco": "99,90",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Versales Taurus Masculino Café",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Sapatênis18 Janeiro 2024 - wanderlei pereira de souza - Gostei muito do jeito que eu queria ganharam mais um cliente"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Taurus Masculino Preto",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "3 ",
+        "depoimentos": [
+            "Excelente produto!30 Maio 2024 -  - Produto muito bom. Perfeito!",
+            "30 Maio 2024 -  - ",
+            "Excelente acabamento23 Fevereiro 2024 - Valdson - Satisfeito e preço justo"
+        ]
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Azul",
+        "preco": "80,00",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Qualidade ótima do produto20 Outubro 2023 - Monise Alves de Menezes da Silva - Amei.. Mais do que esperado e meu filho adorou"
+        ]
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Branco",
+        "preco": "80,00",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Nota 100011 Novembro 2023 - Geraldo Dionísio dos Santos - Muito bom o produto pena que não serviu"
+        ]
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Café",
+        "preco": "80,00",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Preto",
+        "preco": "80,00",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Produto de qualidade26 Outubro 2023 - Marcos Brito - Amo muito os sapatênis da Versales, de boa qualidade e ótimo custo, comprei três para mim e um para meu filho. Top",
+            "Similar11 Dezembro 2023 - Jorge Luis Alves Nogueira - O produto é uma cópia do anunciado. Similar. Não igual. Nada de alcochoado ou Macio.Da pra usar..só espero que dure pelo menos alguns meses . E outra veio sem NF"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Calce Facil com Ziper Versales Azul",
+        "preco": "99,89",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatenis Masculino Calce Facil com Ziper Versales Branco",
+        "preco": "99,89",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatenis Masculino Calce Facil com Ziper Versales Café",
+        "preco": "99,89",
+        "avaliacao": "N/A",
+        "quantidade-de-avaliacoes": "0",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatenis Masculino Calce Facil com Ziper Versales Preto",
+        "preco": "99,89",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Sapatenis29 Fevereiro 2024 - MAURICIO MIRANDA FERREIRA - OTIMO CUSTO BENIFICIO BEM COSTURADO E FINO ACABAMENTO, CONFORTÁVEL."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Casual Calce Facil Versales Preto",
+        "preco": "80,00",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Gostei do produto18 Maio 2024 - Rodrigo - Alguns pontos de cola aparente, mas não deprecia o produto."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Branco",
+        "preco": "99,89",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "8 ",
+        "depoimentos": [
+            "Gostei08 Junho 2024 - Flavio - Tênis bonito e confortável",
+            "Ótimo produto07 Junho 2024 - Marcelo Escobar - Ótimo produto. Mas é importante informar no site quando não tem a pronta entrega. Paguei por PIX e envio por Sedex e tive que aguardar mais de uma semana para a \"fabricação\" do tênis e mais tempo do Correios para receber.",
+            "Muito bom produto31 Maio 2024 - Cristiano Piassali - Alem de ser um produto muito bom empresa seria",
+            "Gostei muito do produto24 Maio 2024 - José - Entrega conforme o prometido",
+            "Gostei muito16 Maio 2024 - Gerson Balleroni - Produto muito bom.",
+            "Produto excelente29 Abril 2024 - Luciana Evangelista de Oliveira - Comprei para dar de presente ao meu namorado, estava em dúvida estre este é um Olympicus e de verdade, esse tênis me surpreendeu. Material de ótima qualidade e muito macio, deve ser extremamente confortável. Comprem sem medo.",
+            "Ótimo06 Abril 2024 - Marco - Recomendo",
+            "Otimo produto28 Março 2024 - Júlio César da Silva Taveira - Bem acabado e macio"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Café e Caramelo",
+        "preco": "99,89",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "3 ",
+        "depoimentos": [
+            "Gostei muito.16 Maio 2024 - Gerson Balleroni - Produto muito bom",
+            "Gostei muitooo08 Abril 2024 - GILSON UMBELINO DA SILVA - Gostei bastante, tem uma boa qualidade,",
+            "bom22 Maio 2024 - Gledson de Lima Freitas - produto bom!"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Marinho",
+        "preco": "99,89",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Sapatenis com Elástico27 Março 2024 - Manoel geovani - Bom sapatênis, gostoso de andar.",
+            "O produto tem um problema o l cadarço elástico e muito duro e forte e isto torna bem difícil para06 Junho 2024 - Fernando - Já dei a minha opinião no Título da Avalição ok"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Marinho e Branco",
+        "preco": "99,89",
+        "avaliacao": "4,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "07 Março 2024 -  - "
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Preto",
+        "preco": "99,89",
+        "avaliacao": "4,4",
+        "quantidade-de-avaliacoes": "8 ",
+        "depoimentos": [
+            "10 Junho 2024 -  - ",
+            "Muito bom23 Maio 2024 - Benedito Tobias - Produto muito bom mesmo",
+            "Custo benefício29 Abril 2024 - Jonys - Tenis muito bom, confortável, elegante e super barato, recomendo",
+            "Gostei muito do produto!20 Janeiro 2024 - Roosevelt Bouça Dos Ssantos - ",
+            "Muito bom06 Junho 2024 - Renan Teixeira da Silva - ",
+            "02 Junho 2024 - Simone Siqueira - Um pouco justo pra colocar. Precisa estar de meia e segurar a \"lingueta\" pra está não descer junto com o pé.\nForma grande, mas não sai do pé.",
+            "Avaliação de compra06 Março 2024 - Adriano dos Santos Gomes - Qualidade e acabamento muito bom. Palmilha poderia ser mais confortável. Recomendo",
+            "Apertado09 Junho 2024 - Nonato Passos - Achei que o elastico dificultou demais pra calçar o tenis"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Azul com Elástico",
+        "preco": "99,89",
+        "avaliacao": "3,8",
+        "quantidade-de-avaliacoes": "4 ",
+        "depoimentos": [
+            "excelente20 Junho 2024 - Maurício Guimarães - produto de excelente ualidade",
+            "Excelente produto03 Março 2024 - Julio César - Muito bom o tênis, um bom acabamento, confortável",
+            "Bonito - só mandaram cor errada05 Fevereiro 2024 - Alexandre Publio - Gostei do produto, só não leva 5 estrelas porque não mandaram conforme catálogo! As fotos mostram uma cor... e te enviam outro (parecido). Nao fosse isso eu compraria outro, mas depois disso fica dificil confiar nas fotos!",
+            "Produto errado!23 Janeiro 2024 - MARCELO SILVEIRA - Comprei com o elastico de cima azul e  veio na cor branca! 🥲🥲🥲🥲"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Branco com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "17",
+        "depoimentos": [
+            "Meu pai amou!16 Junho 2024 - Rayssa - Ele mais gostou do conforto e design!",
+            "Achei a qualidade ótima10 Junho 2024 - Oliveira pastor - Ainda sobre o material, muito bom e também muito parecido com o anúncio",
+            "29 Maio 2024 - Alan Soares Lopes - Bem construído, ótima qualidade. Porém esse detalhe marrom na frente solta bastante tinta e macha o elástico do interior. Eu retirei com cuidado e n ficou com marcas a mostra",
+            "Perfeito08 Maio 2024 - NELSON GERVASIO SANTOS - ",
+            "Adorei19 Abril 2024 - Sergio Leite - ",
+            "BONITO E CONFORTAVEL02 Abril 2024 - MARIO SERGIO ALBUQUERQUE BASTOS - Gostei muito da praticidade pra calçar e do conforto",
+            "Nota 10 muito confortável28 Março 2024 - Levy - Muito bom sapatênis",
+            "Avaliação do calçado22 Março 2024 - Júlio Cesar Bandeira Amorim - Sapa tênis de couro, lindo e confortável, recomendo pois me surpreendi com a qualidade do produto",
+            "Satisfação04 Março 2024 - Claudio Ferreira da Silva - Confortável, bonito, excelente acabamento. Resumindo: excelente produto.",
+            "Maravilhoso22 Fevereiro 2024 - Andreh - Lindo e confortável",
+            "Gostei, aparência é muito bonito, agora vou testar a qualidade.18 Fevereiro 2024 - Alexandre - Seria melhor se fosse saoato fosse costurado ao lado",
+            "Tênis de primeira25 Janeiro 2024 - Marcelo Amorim - Muito bom",
+            "Bonito18 Janeiro 2024 - Paulo Enrique C Barbosa - Excelente e apresentavel",
+            "Muito bom16 Janeiro 2024 - Silas Simões de Oliveira - O produto é muito bonito, confortável, a numeração ficou perfeito, o ponto negativo foi o prazo de entrega.",
+            "Top demais.18 Dezembro 2023 - Guilherme Andrade - Achei o desaine e na cor que eu gosto ."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Branco e Azul com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,8",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Perfeito amei15 Junho 2024 - Augusto Lourenço - ",
+            "Muito lindo o produto comprador26 Maio 2024 -  - Recomendo a loja ,o produto chegou antes do indicado...",
+            "Excelente19 Janeiro 2024 - Estilo e elegância - Fiquei muito surpreso com a quantidade designer do calçado parabéns muito bonito. Uma sugestão fazer em mais numeração maior 45/46 .",
+            "Excelente19 Janeiro 2024 - Estilo e elegância - Fiquei muito surpreso com a quantidade designer do calçado parabéns muito bonito. Uma sugestão fazer em mais numeração maior 45/46 .",
+            "Bom17 Abril 2024 - A34 Samsung - Gostei muito"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Café com Elástico",
+        "preco": "99,89",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Sapatenis25 Fevereiro 2024 - Valeria - Muito confortável e prático de usar. O modelo é lindo parabéns para a loja, comprarei mais com certeza."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Caramelo com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "10",
+        "depoimentos": [
+            "Amei02 Maio 2024 - Cristine Fernanda da conceição - ",
+            "Amei o produto28 Abril 2024 - Flavi - Lindo demais. Meu esposo amou, chegou no prazo. Super indico",
+            "Gostei24 Março 2024 - Tales augusto da silva santana - Muito bom",
+            "Excelente!07 Março 2024 - Marcus Vinícius Sabino Prates - ",
+            "Gostei muito24 Fevereiro 2024 - Luis sergio - Ótimo custo benefício",
+            "Excelente produto, como imaginei28 Janeiro 2024 - Gilberto Antunes - Recomendaria a amigos, em razão da atualidade e conforto",
+            "Nota 1019 Janeiro 2024 - Levy Chagas da Silva - Sapatênis maravilhoso dá um estilo no pé gostei muito por isso que eu comprei outro",
+            "Adorei27 Maio 2024 - SILVIO DA SILVA LESSA - Poderiam fazer promoção de 2 pares",
+            "Adorei27 Maio 2024 - SILVIO DA SILVA LESSA - Poderiam fazer promoção de 2 pares",
+            "Gostei29 Março 2024 - JOSE EUSTAQUIO COSTA - "
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Preto com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,1",
+        "quantidade-de-avaliacoes": "12",
+        "depoimentos": [
+            "Ótimo produto24 Maio 2024 - WAGNER FABIO TEIXEIRA - ",
+            "Excelente20 Maio 2024 - Sósthenes Bergston Pinheiro Santos - TOP",
+            "Ótimo produto22 Abril 2024 - Jorge Luis - Qualidade impecável ótima compra.",
+            "Moderno e confortavel08 Fevereiro 2024 - Rogerio Fernandes dos Santos - Muito bom, chic e casual",
+            "Ótima compra08 Fevereiro 2024 - Ângelo Gustavo Aguilar de Oliveira - Produto com excelente qualidade e entrega rápida, compra segura",
+            "Gostei bastante do sapato.07 Fevereiro 2024 - Anderson Davi Cid - Muito confortável.,........................................................",
+            "Gostei bastante do sapato.07 Fevereiro 2024 - Anderson Davi Cid - Muito confortável.",
+            "Gostei do produto27 Março 2024 - Marcelo S. Germano - Busquei praticidade e conforto",
+            "Gostei muito03 Janeiro 2024 - Mario Bruno - Recomendo pra todos",
+            "24 Janeiro 2024 -  - ",
+            "Não recomendo22 Abril 2024 - sergio wagner souto - o sapato obedece bem no tamanho, mas causa desconforto imenso. não irei usar, impossível.",
+            "Por que a discriminação01 Fevereiro 2024 - roberto ravagnani - Sou discriminado por calçar 46, não posso comprar o produto. Péssima empresa. Péssimo calçado"
+        ]
+    }
+]
