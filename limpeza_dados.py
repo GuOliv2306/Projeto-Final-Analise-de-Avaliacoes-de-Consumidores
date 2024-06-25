@@ -12,7 +12,7 @@ with open("dados_produtos_2.json", "r", encoding="utf-8") as file:
 # Extrair os nomes dos produtos
 nomes_produtos = [produto['nome'] for produto in dados]
 
-"""
+
 #Criação de uma matriz que contem listas com as palavras de cada nome dos produtos
 matriz_com_palavras=[]
 for i in range (len(dados)):
@@ -30,13 +30,13 @@ contador = Counter(todas_palavras)
 # Identificar as 10 palavras mais recorrentes
 mais_comuns = contador.most_common(20)
 
-# Exibir os resultados
+#Exibir os resultados
 lista_recorrentes=[]
 for palavra, frequencia in mais_comuns:
     lista_recorrentes.append([palavra, frequencia])
 
 print(lista_recorrentes)
-
+"""
 # Função para determinar a categoria com base no preço
 
 def determinar_categoria(nome):
