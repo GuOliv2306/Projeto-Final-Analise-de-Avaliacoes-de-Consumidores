@@ -19,9 +19,9 @@ def gerar_resumo(texto):
     try:
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",  # ou "gpt-4", dependendo da sua conta e acesso
-            messages=[
-                {"role": "system", "content": "Você é um assistente que resume depoimentos de clientes."},
-                {"role": "user", "content": f"Resuma o seguinte depoimento: {texto}"}
+messages=[
+                {"role": "system", "content": "Você é um assistente que classifica depoimentos de clientes a respeito do produto ou do serviço com base em 3 avaliações: positivo, negativo ou neutro. Para classificação positiva, dê um ou mais dos seguintes motivos: boa qualidade do material, produto de estética agradável, produto confortável, entrega rápida, entrega sem danificar o produto, outros. Para classificação negativa, dê um ou mais dos seguintes motivos: má qualidade de material, produto de estética desagradável, produto desconfortável, entrega demorada, entrega danificou o produto, outros. Para classificação neutra, utilize os motivos disponíveis para classficiações positivas e negativas. A estrutura da sua resposta deve ser [classificação] - [motivo 1, motivo 2, motivo 3, etc]. Não utilize mais caracteres, símbolos ou palavras dos que os disponíveis para sua tarefa de classificação."},
+                {"role": "user", "content": f"Classifique o seguinte depoimento: {texto}"}
             ],
             max_tokens=60
         )
