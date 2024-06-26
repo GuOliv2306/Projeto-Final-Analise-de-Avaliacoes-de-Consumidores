@@ -55,17 +55,14 @@ Detalhes:
             qAva = "0"
         
         # Extrair os depoimentos dos usuários
-        depoimentos_tags_head = [tag.get_text(strip=True) for tag in soup.find_all('p', class_='product-rating__review-list__title')]
-        depoimentos_tags_nome = [tag.get_text(strip=True) for tag in soup.find_all('p', class_='product-rating__detail__name')]
         depoimentos_tags_msg = [tag.get_text(strip=True) for tag in soup.find_all('p', class_='product-rating__detail__message')]
-        depoimentos = [f"{a} - {b} - {c}" for a, b, c in zip(depoimentos_tags_head, depoimentos_tags_nome, depoimentos_tags_msg)]
 
         return {
             'nome': nome,
             'preco': preco,
             'avaliacao': avaliacao,
             'quantidade-de-avaliacoes': qAva,
-            'depoimentos': depoimentos
+            'depoimentos': depoimentos_tags_msg
         }
     except AttributeError as e:
         print(f"Erro ao extrair dados do produto: {e}")
