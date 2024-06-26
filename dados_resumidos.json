@@ -1,0 +1,640 @@
+[
+    {
+        "nome": "Sapatênis Casual Masculino em Material Nobre - Preto",
+        "preco": "88,78",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "9 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material",
+            "Positivo - boa qualidade do material, produto de estética agradável, produto confortável.",
+            "Positivo - Boa qualidade do material, produto de estética agradável, outros.",
+            "Positivo - Boa qualidade do material, entrega rápida.",
+            "Positivo - boa qualidade do material, entrega conforme o anunciado.",
+            "Positivo - Boa qualidade",
+            "Positivo - boa qualidade do material, entrega demorada",
+            "Negativo - preço excelente, entrega demorada."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Masculino em Material Nobre - Café",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "4 ",
+        "depoimentos": [
+            "Positivo - Boa qualidade do material, produto de estética agradável.",
+            "Positivo - entrega rápida, produto de estética agradável.",
+            "Positivo - entrega rápida."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Masculino - Preto",
+        "preco": "88,78",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "22",
+        "depoimentos": [
+            "Positivo - produto de estética agradável, produto confortável.",
+            "Positivo - boa qualidade do material, produto confortável, produto de estética agradável.",
+            "Positivo - produto confortável, boa qualidade do material, ótimo custo benefício",
+            "Positivo - boa qualidade do material, produto confortável, bom custo-benefício.",
+            "Positivo - Boa qualidade do material, entrega com erro na cor.",
+            "Positivo - Boa qualidade do material, produto confortável, produto de estética agradável, atendeu às expectativas.",
+            "Positivo - produto de estética agradável, produto confortável, boa qualidade do material, outros.",
+            "Positivo - produto de estética agradável, produto confortável",
+            "Positivo - Boa qualidade do material, entrega rápida",
+            "Positivo - boa qualidade do material, produto de estética agradável, produto confortável."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Masculino - Capuccino",
+        "preco": "88,78",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "21",
+        "depoimentos": [
+            "Positivo - produto de estética agradável, produto confortável.",
+            "Positivo - Boa qualidade do material, produto de estética agradável.",
+            "Positivo - Boa qualidade do material, entrega rápida.",
+            "Positivo - produto de estética agradável, produto confortável.",
+            "Neutro - produto desconfortável, produto de estética desagradável.",
+            "Positivo - Produto de estética agradável, produto confortável",
+            "Positivo - boa qualidade do material, produto de estética agradável.",
+            "Positivo - Boa qualidade do material, entrega rápida",
+            "Positivo - confortável, estética agradável.",
+            "Positivo - Boa qualidade do material, produto de estética agradável, produto confortável.",
+            "Classificação: Positiva - Produto confortável."
+        ]
+    },
+    {
+        "nome": "Sapato Derby Tobin Camurça em Atacador - Camel",
+        "preco": "88,78",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "9 ",
+        "depoimentos": [
+            "Neutro - [boa qualidade do material, produto de estética agradável]",
+            "Positivo - boa qualidade.",
+            "Positivo - Produto de estética agradável, produto confortável.",
+            "Positivo - Boa qualidade do material, produto confortável.",
+            "Positivo - Confortável, produto de estética agradável",
+            "Positivo - boa qualidade do material, ótima relação custo benefício.",
+            "Positivo - Boa qualidade do material, entrega rápida, outros."
+        ]
+    },
+    {
+        "nome": "Sapato Derby Tobin Camurça em Atacador - Preto",
+        "preco": "88,78",
+        "avaliacao": "4,8",
+        "quantidade-de-avaliacoes": "9 ",
+        "depoimentos": [
+            "[classificação] - [positivo, boa qualidade do material]",
+            "Positivo - Produto conforme publicidade, sem problemas na compra, atendeu expectativas.",
+            "Positivo - Boa qualidade do material, produto de estética agradável",
+            "Neutro - outros",
+            "Positivo - boa qualidade do material, produto de estética agradável.",
+            "Neutro - outros",
+            "[positivo] - [produto confortável]",
+            "Positivo - Satisfação com o produto",
+            "Neutro - produto desconfortável."
+        ]
+    },
+    {
+        "nome": "Sapato Derby Tobin Camurça em Atacador - Marinho",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "3 ",
+        "depoimentos": [
+            "Positivo - Outros",
+            "Positivo - Produto de estética agradável."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil PTO/PTO 189",
+        "preco": "62,10",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Neutra - [má qualidade de material, produto de estética desagradável, outros]",
+            "Positivo - produto confortável.",
+            "Positivo - Produto confortável.",
+            "Positivo - boa qualidade do material, bom preço, recomendação de compra.",
+            "Positivo - Preço acessível, bom custo-benefício."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Bordo 189",
+        "preco": "62,10",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Azul - 189",
+        "preco": "89,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo - Boa qualidade do material."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Amarelo - 189",
+        "preco": "89,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Negativo - Produto desconfortável, entrega demorada."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Vermelho 189",
+        "preco": "62,10",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "7 ",
+        "depoimentos": [
+            "Positivo - Boa qualidade do material.",
+            "Positivo - entrega rápida, boa qualidade do material, erro no pedido.",
+            "Positivo - Confortável, produto de estética agradável",
+            "Positivo - Confortável, produto de estética agradável.",
+            "Classificação: Positivo - Confortável, prático para calçar.",
+            "Negativo - má qualidade de material, outros.",
+            "Neutro - má qualidade de material, outros."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Branco 189",
+        "preco": "69,91",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "19",
+        "depoimentos": [
+            "Positivo - Boa qualidade do material, produto de estética agradável.",
+            "Neutro - outros.",
+            "Positivo - Boa qualidade do material, produto confortável, produto de estética agradável.",
+            "Classificação: Positivo - produto confortável.",
+            "Positivo - confortável, satisfação",
+            "Positivo - Boa qualidade do material, produto de estética agradável, produto confortável.",
+            "Positivo - Boa qualidade do material, produto de estética agradável.",
+            "Positivo - Boa qualidade do material, produto de estética agradável.",
+            "Neutro - outros.",
+            "Positivo - produto de estética agradável, produto confortável.",
+            "Positivo - Confortável, produto de estética agradável, boa qualidade do material",
+            "Positivo - Boa qualidade do material, produto de estética agradável, outros.",
+            "Positivo - entrega sem danificar o produto, boa qualidade do material.",
+            "Neutro - Outros.",
+            "Classificação: Positivo - Boa qualidade do material, entrega rápida."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Café 189",
+        "preco": "69,91",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "28",
+        "depoimentos": [
+            "Positivo - boa qualidade do material, produto confortável, combina com bermuda.",
+            "Classificação: Positivo - Produto de estética agradável, produto confortável.",
+            "Positivo - Produto prático e de boa qualidade.",
+            "Positivo - produto de estética agradável, produto confortável.",
+            "Positivo - outros",
+            "Positivo - boa qualidade do material, atendeu as necessidades, recomendação.",
+            "Positivo - confortável, atendeu as necessidades, recomendo.",
+            "Positivo - Boa qualidade do material, produto de estética agradável, produto confortável.",
+            "Positivo - Boa qualidade do material, recomendação aos outros.",
+            "Positivo - entrega rápida, boa qualidade do material.",
+            "Positivo - boa qualidade do material, produto de estética agradável, produto confortável, outros.",
+            "Positivo - boa qualidade do material, produto de estética agradável, produto confortável, entrega rápida.",
+            "Positivo - boa qualidade do material, produto de estética agradável, confortável.",
+            "Positivo - Produto confortável."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Azul 189",
+        "preco": "69,91",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "23",
+        "depoimentos": [
+            "Positivo - produto de estética agradável, outros",
+            "Positivo - boa qualidade do material, produto de estética agradável.",
+            "Positivo - entrega rápida, entrega sem danificar o produto",
+            "Positivo - confortável, boa qualidade do material",
+            "Positivo - Boa qualidade do material, preço acessível, entrega rápida",
+            "Positivo - confortável, outros",
+            "Positivo - Boa qualidade do material, produto de estética agradável",
+            "Positivo - Boa qualidade do material, atendimento excelente, troca de tamanho realizada sem problemas.",
+            "Positivo - Boa qualidade do material, entrega rápida.",
+            "Neutro - Produto de estética agradável.",
+            "Positivo - produto versátil, design diferenciado, boa qualidade do material, produto desconfortável",
+            "Positivo - boa qualidade do material, produto de estética agradável, preço acessível.",
+            "Positivo - Confortável, produto de estética agradável, ótimo custo benefício.",
+            "Classificação: positivo - entrega rápida, boa qualidade do material, confiável."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Ziper Preto 189",
+        "preco": "69,91",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "19",
+        "depoimentos": [
+            "Neutro - outros.",
+            "Positivo - Confortável, estética agradável.",
+            "Positivo - confortável.",
+            "Positivo - entrega rápida, suporte para troca, satisfeito com o produto.",
+            "Positivo - Boa qualidade do material, produto confortável, outros.",
+            "Positivo - Boa qualidade do material, produto de estética agradável",
+            "Positivo - Estética agradável",
+            "Positivo - Boa qualidade do material",
+            "Positivo - entrega rápida, confortável, boa qualidade do material.",
+            "Positivo - boa qualidade do material, entrega rápida.",
+            "Positivo - Outros",
+            "Positivo - entrega rápida, produto confortável, produto de estética agradável.",
+            "Positivo - Boa qualidade do material, produto confortável, produto de estética agradável.",
+            "Positivo - Boa qualidade do material, preço bom, entrega rápida.",
+            "Positivo - entrega rápida, produto de estética agradável, produto confortável."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil - Café",
+        "preco": "80,91",
+        "avaliacao": "4,8",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Positivo - produto de estética agradável, atendeu a expectativa.",
+            "Positivo - Boa qualidade do material, entrega rápida.",
+            "Positivo - boa qualidade do material, produto confortável.",
+            "Positivo - Boa qualidade do material, entrega rápida"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Slip on Versales Calce Facil Preto/Preto",
+        "preco": "80,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Neutro - Outros."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Slip on Versales Calce Facil Gelo",
+        "preco": "80,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "8 ",
+        "depoimentos": [
+            "Positivo - produto de estética agradável, produto confortável",
+            "Positivo - Boa qualidade do material, produto confortável.",
+            "Positivo - entrega rápida, produto confortável, primeira compra.",
+            "Neutro - outros.",
+            "Positivo - Boa qualidade do material, preço acessível, entrega rápida.",
+            "Positivo - boa qualidade do material, produto confortável, outros.",
+            "Positivo - confortável, produto de estética agradável.",
+            "Positivo - boa qualidade do material, produto confortável."
+        ]
+    },
+    {
+        "nome": "Kit 2 Sapatenis Masculino Slip on Versales Calce Facil - Gelo e Preto",
+        "preco": "134,9",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "6 ",
+        "depoimentos": [
+            "Positivo - Boa qualidade do material, produto de estética agradável, produto confortável, entrega rápida.",
+            "Positivo - Boa qualidade do material, produto confortável.",
+            "Positivo - produto de estética agradável, boa qualidade do material, produto desconfortável.",
+            "Neutro - confortável."
+        ]
+    },
+    {
+        "nome": "Sapato Social Derby Lightness em Atacador - Café",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "6 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material, produto confortável, produto de estética agradável",
+            "Neutro - outros",
+            "Positivo - boa qualidade do material, produto de estética agradável, produto confortável.",
+            "Neutro - outros.",
+            "Positivo - Boa qualidade do material, produto de estética agradável, outros."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai de Amarrar Versales Masculino - Capuccino",
+        "preco": "88,78",
+        "avaliacao": "4,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Negativo - produto desconfortável."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai de Amarrar Versales Masculino - Preto",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material, produto confortável, recomendação."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai Versales Masculino - Capuccino",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Neutro - outros.",
+            "Positivo - Produto de estética agradável, confiante de que irá gostar.",
+            "Neutra - outros.",
+            "Positivo - Produto confortável.",
+            "Positivo - boa qualidade do material, produto de estética agradável, outros."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai Versales Masculino - Preto",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Positivo - Boa qualidade do material, confortável, entrega rápida.",
+            "Positivo - Boa qualidade do material.",
+            "Positivo - produto de estética agradável, produto confortável.",
+            "Positivo - Entrega rápida.",
+            "Positivo - Estética agradável, confortável"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino de Elástico Taurus Versales Café",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material, produto confortável, produto de estética agradável.",
+            "Positivo - confortável, recomendação."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino de Elástico Taurus Versales Capuccino",
+        "preco": "99,90",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales de Elástico Capuccino",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo - confortável, outros"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales de Elástico Preto",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material, produto confortável.",
+            "Positivo - boa qualidade do material, produto confortável."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales Preto",
+        "preco": "99,90",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales de Elástico Taurus Capuccino",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material, produto de estética agradável"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales Platium Camurça Caramelo",
+        "preco": "88,78",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Neutro - bom investimento, durabilidade não tão grande.",
+            "Neutro - outros."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales Platium Camurça Rato",
+        "preco": "88,78",
+        "avaliacao": "4,4",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material, preço acessível",
+            "Positivo - Boa qualidade do material, produto desconfortável, entrega rápida, produto leve, resistente, acabamento sem rebarbas, custo/benefício.",
+            "Positivo - Boa qualidade do material",
+            "Negativo - produto de estética agradável, produto desconfortável."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Taurus Masculino Café",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo - Outros"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Taurus Masculino Preto",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "3 ",
+        "depoimentos": [
+            "Positivo - Boa qualidade do material, produto de estética agradável.",
+            "Positivo - Outros"
+        ]
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Azul",
+        "preco": "80,00",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo - Boa qualidade do material, produto de estética agradável."
+        ]
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Branco",
+        "preco": "80,00",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Neutro - Produto confortável, outros."
+        ]
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Preto",
+        "preco": "80,00",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material, ótimo custo, satisfeito com a compra.",
+            "Neutro - Produto similar ao anunciado, não alcochoado ou macio, possível durabilidade limitada, ausência de nota fiscal."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Calce Facil com Ziper Versales Preto",
+        "preco": "99,89",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material, produto de estética agradável, produto confortável."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Casual Calce Facil Versales Preto",
+        "preco": "80,00",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Neutro - outras."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Branco",
+        "preco": "99,89",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "8 ",
+        "depoimentos": [
+            "Positivo - produto de estética agradável, produto confortável.",
+            "[positivo] - entrega rápida, boa qualidade do material",
+            "Neutro - Boa qualidade do material, entrega rápida.",
+            "Neutro - entrega rápida, entrega sem danificar o produto.",
+            "Positivo - boa qualidade do material, estética agradável, confortável.",
+            "Positivo - Boa qualidade do material, produto confortável.",
+            "Neutro - outros.",
+            "Positivo - boa qualidade do material, produto confortável"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Café e Caramelo",
+        "preco": "99,89",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "3 ",
+        "depoimentos": [
+            "Neutro - outros",
+            "Positivo - boa qualidade do material.",
+            "Positivo - Boa qualidade do material."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Marinho",
+        "preco": "99,89",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Positivo - confortável, estética agradável.",
+            "Neutro - outros."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Marinho e Branco",
+        "preco": "99,89",
+        "avaliacao": "4,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Preto",
+        "preco": "99,89",
+        "avaliacao": "4,4",
+        "quantidade-de-avaliacoes": "8 ",
+        "depoimentos": [
+            "Positivo - Boa qualidade do material, produto de estética agradável.",
+            "Positivo - boa qualidade do material, produto confortável, produto de estética agradável, preço acessível.",
+            "Neutro - Produto desconfortável, precisa de ajuste.",
+            "Positivo - Boa qualidade do material, produto confortável, outros.",
+            "[negativo] - produto desconfortável, outros"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Azul com Elástico",
+        "preco": "99,89",
+        "avaliacao": "3,8",
+        "quantidade-de-avaliacoes": "4 ",
+        "depoimentos": [
+            "Positivo - boa qualidade do material.",
+            "Positivo - boa qualidade do material, produto confortável",
+            "Negativo - Produto de estética desagradável, outros.",
+            "Negativo - Produto de estética desagradável, entrega danificou o produto."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Branco com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "17",
+        "depoimentos": [
+            "Positivo - Confortável, produto de estética agradável",
+            "[classificação] - [positivo, boa qualidade do material, produto de estética agradável]",
+            "Positivo - Boa qualidade do material, produto de estética agradável, entrega sem danificar o produto.",
+            "Positivo - produto confortável, fácil de calçar.",
+            "Positivo - boa qualidade do material, confortável",
+            "Positivo - boa qualidade do material, produto de estética agradável, produto confortável.",
+            "Positivo - produto confortável, produto de estética agradável, boa qualidade do material.",
+            "Positivo - Produto de estética agradável, produto confortável.",
+            "Negativo - Má qualidade de material, produto de estética desagradável.",
+            "Neutro - outros.",
+            "Positivo - produto de estética agradável.",
+            "Positivo - estética agradável, confortável, boa numeração / Negativo - entrega demorada",
+            "Positivo - Produto de estética agradável."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Branco e Azul com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,8",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Positivo - Entrega rápida.",
+            "Positivo - produto de estética agradável, outros.",
+            "[classificação] - [positivo, produto de estética agradável, outros]",
+            "Neutro - outros"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Café com Elástico",
+        "preco": "99,89",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo - confortável, estética agradável, outros."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Caramelo com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "10",
+        "depoimentos": [
+            "[classificação] - [positivo, produto de estética agradável, entrega rápida]",
+            "Neutro - outros.",
+            "Positivo - outros",
+            "Positivo - boa qualidade do material, produto confortável.",
+            "Positivo - Produto de estética agradável, confortável.",
+            "Neutro - outros",
+            "Neutro - outros"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Preto com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,1",
+        "quantidade-de-avaliacoes": "12",
+        "depoimentos": [
+            "Neutro - outros",
+            "Positivo - Boa qualidade do material, entrega rápida.",
+            "[classificação] - [positivo, produto de estética agradável]",
+            "Positivo - Boa qualidade do material, entrega rápida",
+            "Neutro - Confortável.",
+            "Positivo - Confortável.",
+            "Neutro - confortável.",
+            "Neutro - outros.",
+            "Negativo - Produto desconfortável.",
+            "[negativo] - [produto de estética desagradável, produto desconfortável, outros]"
+        ]
+    }
+]
