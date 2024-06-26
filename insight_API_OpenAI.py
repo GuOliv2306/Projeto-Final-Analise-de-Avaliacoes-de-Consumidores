@@ -1,9 +1,18 @@
 import json
 import openai
-import os
+import re
 
 # Configuração da API diretamente no código
-openai.api_key = ''
+openai.api_key = ''  # Substitua pela sua chave real
+
+
+# Função para extrair a data, autor e texto do depoimento
+def extrair_dados_depoimento(depoimento):
+    match = re.match(r"(.) - ([^-]+) - (.)", depoimento)
+    if match:
+        return match.group(3), match.group(2), match.group(1)
+    return depoimento, "", ""
+
 
 # Função para gerar resumo usando a nova interface ChatCompletion
 def gerar_resumo(texto):
@@ -39,7 +48,7 @@ def salvar_dados(nome_arquivo, dados):
 
 
 # Nome do arquivo original e arquivo de saída
-nome_arquivo_original = 'produtos_atualizados.json'
+nome_arquivo_original = 'produtos_atualizados_2.json'
 nome_arquivo_saida = 'dados_resumidos.json'
 
 # Carregar o JSON
@@ -51,12 +60,22 @@ if dados:
         if 'depoimentos' in item:
             for i, depoimento in enumerate(item['depoimentos']):
                 print(f"Processando depoimento {i + 1}/{len(item['depoimentos'])}")
+
+                # Extrair dados do depoimento
+                texto, autor, data = extrair_dados_depoimento(depoimento)
+
                 # Gerar e substituir o resumo
-                resumo = gerar_resumo(depoimento)
+                resumo = gerar_resumo(texto)
                 print(f"Resumo gerado: {resumo}")
-                item['depoimentos'][i] = resumo
+
+                # Recompôr o depoimento com o resumo
+                if autor and data:
+                    item['depoimentos'][i] = f"{resumo} - {autor} - {data}"
+                else:
+                    item['depoimentos'][i] = resumo
+
                 # Salvar os dados com o resumo atualizado
                 salvar_dados(nome_arquivo_saida, dados)
     print("Processamento completo.")
 else:
-    print("Nenhum dado foi processado devido a erro ao carregar o JSON.")
+    print("Nenhum dado foi processado devido a erro ao carregar o JSON.")
