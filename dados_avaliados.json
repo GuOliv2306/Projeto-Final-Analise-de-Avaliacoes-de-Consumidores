@@ -1,0 +1,640 @@
+[
+    {
+        "nome": "Sapatênis Casual Masculino em Material Nobre - Preto",
+        "preco": "88,78",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "9 ",
+        "depoimentos": [
+            "Positivo.",
+            "Positivo",
+            "Positivo",
+            "Positivo",
+            "Este depoimento é positivo.",
+            "Positivo.",
+            "Positivo.",
+            "Este depoimento pode ser classificado como negativo, devido aos problemas relatados na entrega do produto."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Masculino em Material Nobre - Café",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "4 ",
+        "depoimentos": [
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento pode ser classificado como positivo.",
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Masculino - Preto",
+        "preco": "88,78",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "22",
+        "depoimentos": [
+            "Este depoimento é classificado como positivo.",
+            "Positivo.",
+            "Este depoimento é positivo.",
+            "Esse depoimento é classificado como positivo.",
+            "O depoimento pode ser classificado como neutro, pois o cliente elogiou o produto, mas também mencionou uma falha na entrega em relação à cor solicitada.",
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento pode ser classificado como positivo, pois destaca aspectos como beleza, conforto, acabamento e durabilidade do produto, além de demonstrar satisfação por parte do cliente com a aquisição.",
+            "Este depoimento pode ser classificado como positivo.",
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento é positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Masculino - Capuccino",
+        "preco": "88,78",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "21",
+        "depoimentos": [
+            "Positivo.",
+            "Este depoimento pode ser classificado como positivo.",
+            "Positivo",
+            "Este depoimento é claramente positivo. O cliente destacou que o tênis é lindo, confortável, com tamanho real e perfeito, e ainda mencionou que o marido adorou.",
+            "Este depoimento pode ser classificado como neutro. O cliente menciona uma dificuldade ao comprar um número menor do que o habitual, mas não expressa uma opinião clara sobre a experiência de compra.",
+            "Aspecto: positivo",
+            "Este depoimento é positivo, destacando aspectos como bom acabamento, design e atualização do produto com o momento.",
+            "Este depoimento é positivo.",
+            "Positivo",
+            "O depoimento é classificado como positivo, pois destaca características como ótimo acabamento, bonito, confortável e satisfação com a aquisição.",
+            "Este depoimento é positivo."
+        ]
+    },
+    {
+        "nome": "Sapato Derby Tobin Camurça em Atacador - Camel",
+        "preco": "88,78",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "9 ",
+        "depoimentos": [
+            "Este depoimento é positivo.",
+            "Positivo",
+            "Este depoimento pode ser classificado como positivo.",
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento pode ser classificado como positivo, pois o cliente destacou aspectos positivos, como confortável e bonito.",
+            "Positivo.",
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapato Derby Tobin Camurça em Atacador - Preto",
+        "preco": "88,78",
+        "avaliacao": "4,8",
+        "quantidade-de-avaliacoes": "9 ",
+        "depoimentos": [
+            "Positivo.",
+            "Este depoimento é positivo.",
+            "Positivo.",
+            "Neutro",
+            "Positivo",
+            "Este depoimento é positivo.",
+            "Positivo",
+            "Positivo.",
+            "Este depoimento pode ser classificado como neutro."
+        ]
+    },
+    {
+        "nome": "Sapato Derby Tobin Camurça em Atacador - Marinho",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "3 ",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como positivo.",
+            "Este depoimento é classificado como positivo. O cliente expressou satisfação com a segunda compra, mencionando que gostou muito do sapato e achou a cor muito bonita."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil PTO/PTO 189",
+        "preco": "62,10",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Neutro.",
+            "Positivo.",
+            "Este depoimento é classificado como positivo.",
+            "Positivo.",
+            "Este depoimento pode ser classificado como positivo, pois destaca a combinação de preço e benefício como sendo muito boa."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Bordo 189",
+        "preco": "62,10",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Azul - 189",
+        "preco": "89,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como positivo, pois o cliente recomenda o produto e destaca sua qualidade."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Amarelo - 189",
+        "preco": "89,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "O depoimento pode ser classificado da seguinte forma:\nPositivo: \"Produto dentro das expectativas.\"\nNegativo: \"A que para o calça fácil deve ser um número maior.\" e \"A entrega um pouco demorada.\"\nNeutro: \"Eu já havia"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Vermelho 189",
+        "preco": "62,10",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "7 ",
+        "depoimentos": [
+            "Positivo.",
+            "O depoimento pode ser classificado da seguinte forma:\n\n1. Aspecto Positivo: Os produtos chegaram rápido e com excelente qualidade.\n\n2. Aspecto Negativo: A unidade vermelha veio com a numeração errada.\n\n3. Aspecto Neutro",
+            "Positivo.",
+            "Positivo.",
+            "Este depoimento pode ser classificado como positivo.",
+            "Aspecto: Negativo",
+            "Este depoimento pode ser classificado como negativo, devido à recomendação negativa sobre o método de costura das solas em vez de cola."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Branco 189",
+        "preco": "69,91",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "19",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como positivo, uma vez que o cliente expressa satisfação com o produto e demonstra interesse em continuar comprando produtos da mesma marca.",
+            "Positivo",
+            "Este depoimento é positivo.",
+            "Este depoimento é positivo.",
+            "Este depoimento pode ser classificado como positivo, pois o cliente expressou satisfação com o produto adquirido.",
+            "Positivo",
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento pode ser classificado como positivo.",
+            "Este depoimento é positivo, pois indica uma satisfação em relação à variedade de opções de sapatênis em cores claras.",
+            "Este depoimento pode ser classificado como positivo, pois o cliente inicialmente estava com medo da compra, porém ao receber o produto ficou encantado com a beleza e conforto.",
+            "Classificação: Positivo. O cliente expressou sua satisfação com o produto, elogiando suas características e destacando aspectos positivos, como o conforto, a beleza e a qualidade do solado de borracha.",
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento é positivo.",
+            "Positivo.",
+            "Este depoimento pode ser classificado como positivo, pois o cliente menciona que o produto atendeu às suas expectativas, elogiou a empresa (\"parabéns\") e mencionou que já realizou compras anteriores."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Café 189",
+        "preco": "69,91",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "28",
+        "depoimentos": [
+            "Este depoimento é positivo.",
+            "Este depoimento é positivo.",
+            "Este depoimento pode ser classificado como positivo, pois a palavra \"Excelente\" indica uma avaliação positiva em relação ao produto.",
+            "Este depoimento pode ser classificado como positivo, já que o cliente ressalta que o sapatenis atendeu às expectativas e é leve, confortável e fácil de calçar.",
+            "Positivo",
+            "Este depoimento pode ser classificado como positivo, pois o cliente expressou satisfação com o produto, recomendou e elogiou tanto a loja quanto a fabricante.",
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento é positivo.",
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento pode ser classificado como positivo, pois o cliente menciona que tudo foi muito bom, incluindo o produto e a logística de entrega.",
+            "Este depoimento é classificado como positivo, pois o cliente expressa sua satisfação com os produtos da empresa Versales, elogiando a qualidade, beleza e conforto do sapatenis adquirido. Além disso, demonstra intenção de continuar compr",
+            "O depoimento é positivo.",
+            "Este depoimento é classificado como positivo.",
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Azul 189",
+        "preco": "69,91",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "23",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como neutro, pois contém aspectos tanto positivos (como o sapato ser bonito e o marido ter gostado e utilizado) quanto negativo (ter comprado na numeração errada).",
+            "Este depoimento é positivo.",
+            "Positivo.",
+            "Positivo",
+            "Positivo",
+            "Este depoimento pode ser classificado como positivo, pois elogia o produto (\"Ótimo produto!\") e aponta um aspecto a ser melhorado, porém de forma não muito negativa (\"Só apertar um pouco dos lados por ser mais estreito",
+            "Positivo.",
+            "Positivo.",
+            "Este depoimento é classificado como positivo. O cliente expressou satisfação com os produtos, destacou que seus filhos também gostaram, mencionou que o produto chegou dentro do prazo, enfatizando a importância disso.",
+            "Neutro",
+            "Este depoimento pode ser classificado como neutro, pois apesar de mencionar aspectos positivos do produto, como a versatilidade, o design e o material de fabricação, também menciona um problema relacionado a uma sequela de cirurgia que está imped",
+            "Este depoimento é positivo.",
+            "Positivo.",
+            "Este depoimento pode ser classificado como positivo, pois o cliente expressa satisfação com a compra, elogiando a loja pela cumprimento dos prazos, agilidade na entrega e confiança no serviço prestado. Além disso, o"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil Ziper Preto 189",
+        "preco": "69,91",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "19",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como positivo, pois a recomendação sugere que a experiência do cliente foi satisfatória.",
+            "Positivo",
+            "Este depoimento pode ser classificado como positivo, pois destaca a qualidade do produto como \"ótimo\". No entanto, também menciona um aspecto negativo, que seria o desconforto de apertar um pouco na lateral. Portanto, a classificação final seria",
+            "Este depoimento pode ser classificado como positivo, pois o cliente demonstra satisfação com a agilidade na entrega, o suporte oferecido para a troca do produto e a intenção de fazer novas compras.",
+            "Este depoimento é positivo.",
+            "Positivo",
+            "Neutro",
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento é classificado como **positivo**.",
+            "Positivo",
+            "Neutro",
+            "Este depoimento pode ser classificado como positivo, pois o cliente elogiou o preço, a entrega dentro do prazo, a qualidade do produto e demonstrou intenção de compras futuras.",
+            "Este depoimento pode ser classificado como positivo, pois o cliente elogiou a qualidade, leveza e design dos tênis Puma Ferrari, além de mencionar a confiança na marca Puma.",
+            "Este depoimento é classificado como positivo.",
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Versales Calce Facil - Café",
+        "preco": "80,91",
+        "avaliacao": "4,8",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Este depoimento é positivo.",
+            "Este depoimento pode ser classificado como positivo, pois o cliente menciona que o produto é ótimo e que o recomendaria, além de parabenizar a empresa.",
+            "Positivo.",
+            "Este depoimento é positivo."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Slip on Versales Calce Facil Preto/Preto",
+        "preco": "80,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Neutro"
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Slip on Versales Calce Facil Gelo",
+        "preco": "80,91",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "8 ",
+        "depoimentos": [
+            "Positivo",
+            "Positivo.",
+            "Esse depoimento é classificado como positivo, pois o cliente está satisfeito com a entrega dentro do prazo, com a qualidade do produto (tamanho adequado) e expressa interesse em novos produtos da marca. Além disso, há elogios e até",
+            "Este depoimento é classificado como positivo.",
+            "Positivo",
+            "Positivo",
+            "Positivo.",
+            "Positivo."
+        ]
+    },
+    {
+        "nome": "Kit 2 Sapatenis Masculino Slip on Versales Calce Facil - Gelo e Preto",
+        "preco": "134,9",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "6 ",
+        "depoimentos": [
+            "Positivo",
+            "Este depoimento é positivo.",
+            "Este depoimento pode ser classificado como positivo, pois elogia a beleza e qualidade do produto. No entanto, também menciona um aspecto negativo, que é a numeração, sugerindo comprar um número maior. Portanto, a classificação final seria neutra",
+            "Este depoimento pode ser classificado como neutro."
+        ]
+    },
+    {
+        "nome": "Sapato Social Derby Lightness em Atacador - Café",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "6 ",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como positivo.",
+            "Este depoimento é positivo.",
+            "Positivo",
+            "Neutro",
+            "Este depoimento é classificado como positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai de Amarrar Versales Masculino - Capuccino",
+        "preco": "88,78",
+        "avaliacao": "4,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como negativo, pois apesar de elogiar o preço, o cliente enfatiza que o produto não é confortável."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai de Amarrar Versales Masculino - Preto",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai Versales Masculino - Capuccino",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Positivo",
+            "Este depoimento é positivo, pois o cliente elogia o produto, expressando que é \"muito lindo\" e demonstra confiança de que irá gostar. Além disso, agradece no final.",
+            "Este depoimento pode ser classificado como positivo.",
+            "Este depoimento é positivo.",
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Dubai Versales Masculino - Preto",
+        "preco": "88,78",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Positivo.",
+            "Este depoimento é positivo.",
+            "Aspecto: Positivo",
+            "Este depoimento pode ser classificado como positivo, pois o cliente menciona que o produto está conforme a descrição e que gostou, mas também destaca um ponto de melhoria, que seria a entrega mais rápida.",
+            "Positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino de Elástico Taurus Versales Café",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Este depoimento é positivo. O cliente expressou satisfação com o sapatênis, destacando que é confortável, bonito e feito de material de qualidade.",
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino de Elástico Taurus Versales Capuccino",
+        "preco": "99,90",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales de Elástico Capuccino",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales de Elástico Preto",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Este depoimento é positivo.",
+            "Positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Taurus Versales Preto",
+        "preco": "99,90",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales de Elástico Taurus Capuccino",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales Platium Camurça Caramelo",
+        "preco": "88,78",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como neutro, pois o cliente menciona aspectos positivos, como o preço acessível e a funcionalidade do sapato, mas também destaca um aspecto negativo, que é a durabilidade limitada. No entanto, ele final",
+            "Este depoimento pode ser classificado como positivo, pois a recomendação geralmente indica uma experiência satisfatória com o produto ou serviço."
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Masculino Versales Platium Camurça Rato",
+        "preco": "88,78",
+        "avaliacao": "4,4",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Positivo.",
+            "Este depoimento pode ser classificado como positivo. Alguns aspectos positivos mencionados incluem a qualidade do material, a abertura interna na parte frontal que não aperta os pés, o envio correto do tamanho solicitado, a rapidez na entrega,",
+            "Este depoimento pode ser classificado como positivo.",
+            "Aspecto positivo: \"Sapatênis muito bonito\"\nAspecto negativo: \"a forma é grande\"\nClassificação geral: Neutro"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Taurus Masculino Café",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapatênis Casual Versales Taurus Masculino Preto",
+        "preco": "99,90",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "3 ",
+        "depoimentos": [
+            "Positivo.",
+            "Este depoimento é classificado como positivo."
+        ]
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Azul",
+        "preco": "80,00",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo"
+        ]
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Branco",
+        "preco": "80,00",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Aspecto: Positivo (embora com ressalva)\nJustificativa: O cliente elogiou a qualidade do produto (\"Muito bom\"), porém expressou uma insatisfação por não servir."
+        ]
+    },
+    {
+        "nome": "Sapatenis Infantil Versales Calce Facil Preto",
+        "preco": "80,00",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Classificação: Positivo",
+            "Com base no depoimento fornecido, eu o classificaria como neutro. O cliente menciona aspectos bons e ruins do produto, e expressa alguma incerteza em relação à durabilidade e à falta da nota fiscal."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Calce Facil com Ziper Versales Preto",
+        "preco": "99,89",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Este depoimento é positivo."
+        ]
+    },
+    {
+        "nome": "Sapatenis Masculino Casual Calce Facil Versales Preto",
+        "preco": "80,00",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Neutro"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Branco",
+        "preco": "99,89",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "8 ",
+        "depoimentos": [
+            "Positivo",
+            "Aspecto positivo: Ótimo produto.\nAspecto negativo: Informação desatualizada sobre a disponibilidade do produto.\nClassificação geral: Neutro.",
+            "Neutro.",
+            "Neutro",
+            "Este depoimento é positivo.",
+            "Este depoimento pode ser classificado como positivo, pois o cliente expressa satisfação com a qualidade do produto e indica que ficou surpreso positivamente. Além disso, ele incentiva outros a comprarem.",
+            "Esse depoimento pode ser classificado como positivo.",
+            "Este depoimento pode ser classificado como positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Café e Caramelo",
+        "preco": "99,89",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "3 ",
+        "depoimentos": [
+            "Positivo.",
+            "Este depoimento é classificado como positivo.",
+            "Positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Marinho",
+        "preco": "99,89",
+        "avaliacao": "4,5",
+        "quantidade-de-avaliacoes": "2 ",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como positivo.",
+            "Neutro."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Marinho e Branco",
+        "preco": "99,89",
+        "avaliacao": "4,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": []
+    },
+    {
+        "nome": "Sapatênis Masculino com Elástico Versales Full Preto",
+        "preco": "99,89",
+        "avaliacao": "4,4",
+        "quantidade-de-avaliacoes": "8 ",
+        "depoimentos": [
+            "Este depoimento é classificado como positivo.",
+            "Positivo",
+            "Consegui identificar dois aspectos nesse depoimento:\n- Negativo: \"Um pouco justo pra colocar. Precisa estar de meia e segurar a 'lingueta' pra está não descer junto com o pé.\"\n- Positivo: \"Forma grande",
+            "Este depoimento mistura aspectos positivos e negativos. Vou classificá-lo como neutro, pois menciona tanto pontos positivos quanto negativos sobre o produto.",
+            "Aspecto: Negativo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Azul com Elástico",
+        "preco": "99,89",
+        "avaliacao": "3,8",
+        "quantidade-de-avaliacoes": "4 ",
+        "depoimentos": [
+            "Este depoimento é positivo.",
+            "O depoimento é classificado como positivo.",
+            "Este depoimento pode ser classificado como negativo, pois o cliente expressa insatisfação com o produto recebido em comparação com o que foi anunciado no catálogo. O cliente menciona que gostou do produto em si, mas a divergência em",
+            "Classificação: Negativo. O cliente expressou insatisfação com a compra, pois recebeu um produto com uma cor diferente da esperada."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Branco com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,9",
+        "quantidade-de-avaliacoes": "17",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como positivo, já que o cliente expressou sua satisfação com o conforto e design do produto.",
+            "Este depoimento é classificado como positivo, pois o cliente destacou que o material é muito bom e muito parecido com o anúncio.",
+            "Este depoimento é uma mistura de aspectos positivos e negativos. Vou destacar a parte positiva como \"positivo\" e a parte negativa como \"negativo\". Portanto, a classificação seria:\n\nAspecto positivo: Bem construído, ó",
+            "Positivo",
+            "Este depoimento pode ser classificado como positivo.",
+            "Positivo",
+            "Este depoimento possui aspectos positivos, sendo classificado como um feedback positivo.",
+            "Positivo.",
+            "Este depoimento pode ser classificado como negativo, pois indica uma insatisfação em relação à qualidade ou ao processo de fabricação do produto mencionado.",
+            "Este depoimento é classificado como positivo.",
+            "Este depoimento é positivo.",
+            "Aspecto positivo: o produto é bonito, confortável e a numeração ficou perfeita.\nAspecto negativo: o prazo de entrega.\n\nClassificação: Positivo.",
+            "Este depoimento pode ser classificado como positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Branco e Azul com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,8",
+        "quantidade-de-avaliacoes": "5 ",
+        "depoimentos": [
+            "Este depoimento é positivo.",
+            "Este depoimento pode ser classificado como positivo, pois menciona a surpresa positiva com a quantidade de design do calçado e elogia a beleza do produto. Além disso, traz uma sugestão para disponibilidade de numerações maiores",
+            "Este depoimento pode ser classificado como positivo, pois elogia a qualidade do design do calçado e faz uma sugestão de melhoria de disponibilizar mais numerações maiores.",
+            "Esse depoimento é positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Café com Elástico",
+        "preco": "99,89",
+        "avaliacao": "5,0",
+        "quantidade-de-avaliacoes": "1 ",
+        "depoimentos": [
+            "Positivo."
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Caramelo com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,7",
+        "quantidade-de-avaliacoes": "10",
+        "depoimentos": [
+            "Este depoimento pode ser classificado como positivo.",
+            "Este depoimento é positivo.",
+            "Positivo.",
+            "Positivo",
+            "Este depoimento é positivo, pois o cliente expressa seu contentamento com o produto e até mesmo adquiriu um segundo par.",
+            "Neutro.",
+            "Neutro"
+        ]
+    },
+    {
+        "nome": "Sapatênis Masculino Versales Full Preto com Elástico",
+        "preco": "99,89",
+        "avaliacao": "4,1",
+        "quantidade-de-avaliacoes": "12",
+        "depoimentos": [
+            "Neutro. Esse depoimento não fornece informações suficientes para ser classificado como positivo, negativo ou neutro.",
+            "Positivo.",
+            "Positivo",
+            "Este depoimento é positivo.",
+            "Positivo.",
+            "Este depoimento é positivo.",
+            "Neutro.",
+            "Esse depoimento pode ser classificado como positivo.",
+            "Este depoimento pode ser classificado como negativo, devido ao desconforto causado pelo sapato.",
+            "O depoimento é negativo."
+        ]
+    }
+]
